@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorsetch",
+        "uuid": 23456745,
+        "checksum": "wmi4n"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
